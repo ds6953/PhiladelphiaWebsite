@@ -1,7 +1,5 @@
 <?php 
-    $currentTitle = "Homepage";
     $currentPage = "Homepage"; 
-
     $customCSS ='
     ';     
 ?>
@@ -15,26 +13,27 @@
     
     <?php include "assets/inc/header.php"; ?>
     <?php include "assets/inc/nav.php"; ?>
-
+    
+    <h2><?php echo $currentPage; ?></h2>
     <section class="intro">
-      <h2>About</h2>
+      <h3>About</h3>
       <img>
       <p></p>
     </section>
     
     <section class="characteristics">
-      <h2>Characteristics</h2>
+      <h3>Characteristics</h3>
       <p></p>
     </section>
     
     <section class="geography">
-      <h2>Geography</h2>
+      <h3>Geography</h3>
       <img>
       <p>Philadelphia is a flat city except for the northwestern area. The city is flanked by two rivers, Delaware and the smaller Schuylkill. The landforms in Philadelphia and the Delaware Valley are the Atlantic Coastal Plain and the Piedmont Upland . A broad flat coastal plain.</p>
     </section>
 
     <section class=landmarks>
-      <h2>Property of Landmarks</h2>
+      <h3>Property of Landmarks</h3>
       <table>
         <tr>
           <th>Landmark</th>
@@ -66,8 +65,6 @@
 
     </section>
 
-    
-    
     <?php include "assets/inc/footer.php"; ?>
       
       

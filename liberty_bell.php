@@ -1,13 +1,19 @@
+<?php 
+    $currentPage = "Liberty Bell"; 
+
+    $customCSS ='
+    ';     
+?>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liberty Bell</title>
-</head>
-<body>
 
-    <h1>Liberty Bell</h1>
+<?php include "assets/inc/head.php"; ?>
+  <body>
+    
+    <?php include "assets/inc/header.php"; ?>
+    <?php include "assets/inc/nav.php"; ?>
+
+    <h2><?php echo $currentPage; ?></h2>
 
     <h2>History</h2>
 
