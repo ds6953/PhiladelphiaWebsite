@@ -17,11 +17,13 @@
     <?php include "assets/inc/nav.php"; ?>
 
     <section class="intro">
+      <h2>About</h2>
       <img>
       <p></p>
     </section>
     
     <section class="characteristics">
+      <h2>Characteristics</h2>
       <p></p>
     </section>
     
