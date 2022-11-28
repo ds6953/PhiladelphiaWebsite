@@ -3,7 +3,7 @@
         <nav>
             <ul>
                 <li><a class="external" href="">insert link</a></li>
-                <li><a class="external" href="">link</a></li>
+                <li><a class="external" href="https://www.britannica.com/place/Philadelphia">Britannica</a></li>
         </ul>
         </nav>
         <p>This web page was written by Team Philadelphia</p>

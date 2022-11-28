@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eastern City Penitentiary</title>
-</head>
-<body>
-    <h1>Eastern City Penitentiary</h1>
+<?php include "assets/inc/head.php"; ?>
+  <body>
+    
+    <?php include "assets/inc/header.php"; ?>
+    <?php include "assets/inc/nav.php"; ?>
+    
+    <h2><?php echo $currentPage; ?></h2>
 
     <h2>History</h2>
     <p>The Eastern State Penitentiary, also known as ESP, is a former American prison in Philadelphia, Pennsylvania.[6] It is located at 2027 Fairmount Avenue between Corinthian Avenue and North 22nd Street in the Fairmount section of the city, and was operational from 1829 until 1971. The penitentiary refined the revolutionary system of separate incarceration first pioneered at the Walnut Street Jail which emphasized principles of reform rather than punishment.[7</p>

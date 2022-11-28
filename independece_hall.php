@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Independence Hall</title>
-</head>
-<body>
-    <h1>Independence Hall</h1>
+
+<?php include "assets/inc/head.php"; ?>
+  <body>
+    
+    <?php include "assets/inc/header.php"; ?>
+    <?php include "assets/inc/nav.php"; ?>
+
+    <h2><?php echo $currentPage; ?></h2>
 
     <h2>History</h2>
 
@@ -14,12 +15,10 @@
     </p>
 
     <h2>Characteristics:</h2>
-    <p>Begun in 1732 and finished in 1753, it is a dignified brick structure with a wooden steeple that once held the Liberty Bell.
-    </p>
+    <p>Begun in 1732 and finished in 1753, it is a dignified brick structure with a wooden steeple that once held the Liberty Bell.</p>
 
     <h2>Location:</h2>
-    <p>Independence Hall is located at 520 Chestnut Street
-    </p>
+    <p>Independence Hall is located at 520 Chestnut Street</p>
 
     <img src="" alt="Independence Hall">
 
