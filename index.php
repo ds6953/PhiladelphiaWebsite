@@ -13,7 +13,7 @@
     
     <?php include "assets/inc/header.php"; ?>
     <?php include "assets/inc/nav.php"; ?>
-    
+
     <h2><?php echo $currentPage; ?></h2>
     <section class="intro">
       <h3>About</h3>
@@ -30,6 +30,13 @@
       <h3>Geography</h3>
       <img>
       <p>Philadelphia is a flat city except for the northwestern area. The city is flanked by two rivers, Delaware and the smaller Schuylkill. The landforms in Philadelphia and the Delaware Valley are the Atlantic Coastal Plain and the Piedmont Upland . A broad flat coastal plain.</p>
+    </section>
+
+    <section class="history">
+      <h2>History</h2>
+
+      <p>Before Philadelphia was colonized by Europeans, the area was inhabited by the Lenape (Delaware) Indians. The Delaware River Valley was called the Zuyd, meaning "South" River, or Lënapei Sipu. Located north of what will eventually become the Center City and on the east bank of the Schuylkill was a Lenape settlement named Coaquannock, meaning "grove of pines." One of the largest Lenape settlement in the region, located in today's South Philadelphia near the confluence of Schuylkill and Delaware, was Passyun, meaning "in the valley." Other settlements including the village of Nitapèkunk, "place that is easy to get to," located in today's Fairmount Park area. And the villages of Pèmikpeka, "where the water flows," and Shackamaxon, "place where the chief was crowned", both were located on the west bank of Delaware River, upstream from today's Northern Liberties. The city of Philadelphia was founded in 1862 by William Penn in the English Crown Province of Pennsylvania between the Delaware and Schuylkill rivers. Before then, the area was inhabited by the Lenape people. Philadelphia quickly grew into an important colonial city and during the American Revolution was the site of the First and Second Continental Congresses. After the Revolution the city was chosen to be the temporary capital of the United States. At the beginning of the 19th century, the federal and state governments left Philadelphia, but the city remained the cultural and financial center of the country. Philadelphia became one of the first U.S. industrial centers and the city contained a variety of industries, the largest being textiles.</p>
+
     </section>
 
     <section class=landmarks>
@@ -56,13 +63,6 @@
             <td>230,000</td>
           </tr>
       </table>
-    </section>
-    
-    <section class="history">
-      <h2>History</h2>
-
-      <p>Before Philadelphia was colonized by Europeans, the area was inhabited by the Lenape (Delaware) Indians. The Delaware River Valley was called the Zuyd, meaning "South" River, or Lënapei Sipu. Located north of what will eventually become the Center City and on the east bank of the Schuylkill was a Lenape settlement named Coaquannock, meaning "grove of pines." One of the largest Lenape settlement in the region, located in today's South Philadelphia near the confluence of Schuylkill and Delaware, was Passyun, meaning "in the valley." Other settlements including the village of Nitapèkunk, "place that is easy to get to," located in today's Fairmount Park area. And the villages of Pèmikpeka, "where the water flows," and Shackamaxon, "place where the chief was crowned", both were located on the west bank of Delaware River, upstream from today's Northern Liberties. The city of Philadelphia was founded in 1862 by William Penn in the English Crown Province of Pennsylvania between the Delaware and Schuylkill rivers. Before then, the area was inhabited by the Lenape people. Philadelphia quickly grew into an important colonial city and during the American Revolution was the site of the First and Second Continental Congresses. After the Revolution the city was chosen to be the temporary capital of the United States. At the beginning of the 19th century, the federal and state governments left Philadelphia, but the city remained the cultural and financial center of the country. Philadelphia became one of the first U.S. industrial centers and the city contained a variety of industries, the largest being textiles.</p>
-
     </section>
 
     <?php include "assets/inc/footer.php"; ?>
