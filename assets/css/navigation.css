@@ -1,3 +1,21 @@
+/*Remove old styles*/
+nav ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin:0;
+    margin-bottom: 1.5em;
+}
+
+nav a {
+    text-decoration: none;
+    
+    font-weight:bold;
+    font-size: 17px;
+    padding: 3px 5px;
+}
+
+
+
 .main-nav a{
     border: 1px solid black;
     justify-content: center;
@@ -5,10 +23,13 @@
     background-color: #fec019;
     box-shadow: 5px 5px 10px 0 #cccccc;
     border-radius: 5px;
-    text-decoration: none;
+}
+.main-nav li{
+    margin-left: 1em;
+    margin-bottom: 2.5em;
 }
 .main-nav ul{
-    list-style: none;
     padding: 15px;
     display: flex;
+    flex-wrap: wrap;
 }
