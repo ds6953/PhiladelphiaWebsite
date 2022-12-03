@@ -37,5 +37,6 @@
     </section>
 
     <?php include "assets/inc/footer.php"; ?>
+</div>
 </body>
 </html>
