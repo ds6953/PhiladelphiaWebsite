@@ -66,7 +66,9 @@
     </section>
 
     <?php include "assets/inc/footer.php"; ?>
-</div>
+</div><!--end of container-->
+
+<?php include "assets/inc/js.php"; ?>
       
       
 </body>
