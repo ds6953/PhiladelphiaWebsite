@@ -8,7 +8,7 @@
 
 <?php include "assets/inc/head.php"; ?>
   <body>
-    
+    <div class="container">   
     <?php include "assets/inc/header.php"; ?>
     <?php include "assets/inc/nav.php"; ?>
 

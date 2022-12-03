@@ -8,7 +8,7 @@
 
 <?php include "assets/inc/head.php"; ?>
   <body>
-    
+  <div class="container">
     <?php include "assets/inc/header.php"; ?>
     <?php include "assets/inc/nav.php"; ?>
     <h2><?php echo $currentPage; ?></h2>
@@ -37,5 +37,6 @@
     </section>
 
     <?php include "assets/inc/footer.php"; ?>   
+</div>
 </body>
 </html>

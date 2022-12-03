@@ -5,10 +5,10 @@
     background-color: #fec019;
     box-shadow: 5px 5px 10px 0 #cccccc;
     border-radius: 5px;
+    text-decoration: none;
 }
 .main-nav ul{
     list-style: none;
     padding: 15px;
     display: flex;
-
 }
