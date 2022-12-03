@@ -1,0 +1,74 @@
+/* remove old styles */
+nav ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin:0;
+    margin-bottom: 1.5em;
+}
+
+nav a {
+    text-decoration: none;
+    
+    font-weight:bold;
+    font-size: 17px;
+    padding: 3px 5px;
+}
+
+/*adding new styles for nav*/
+
+.main-nav ul{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+.main-nav li{
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+
+.main-nav a{
+    color:#358102;
+    font-size: 20px;
+    background-color:  #90df90;
+    border-radius: 1em;
+    border: 2px solid #358102;
+}
+/*Add Nav functionality */
+
+.main-nav a:hover{
+    background-color: #70f170;
+    color:#358102;
+    border: 2px solid #358102;
+ }
+.main-nav a:active{
+
+    background-color:  #125005;
+    color:#358102;
+    border: 2px solid #358102;
+}
+.main-nav .is-current{
+    background-color: #3b7a10;
+    color:#56be10;
+    border: 2px solid #163005;
+}
+
+/*css for external links*/
+.external {
+    text-decoration: none;
+    color: #568009;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.external:hover{
+    color: #7cb80e;
+}
+
+.external:active{
+    color: #568009;
+}
+
+.external:visited{
+    color: #436e54;
+}
