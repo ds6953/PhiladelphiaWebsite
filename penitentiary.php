@@ -17,7 +17,7 @@
 
     <section class="intro">
       <h3>About</h3>
-      <img src="assets/images/image1.png" alt="Eastern City Penitentiary" width = "500" height = "500">
+      <img src="assets/images/penitentiary.png" alt="penitentiary" width = "500" height = "500">
       <p></p>
     </section>
 
