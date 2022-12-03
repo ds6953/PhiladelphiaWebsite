@@ -1,0 +1,16 @@
+a{
+    display: inline-block;
+    border: 1px solid black;
+    justify-content: center;
+    padding: 15px;
+    background-color: #fec019;
+    box-shadow: 5px 5px 10px 0 #cccccc;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+    padding: 15px;
+}
+li{
+    float: left;
+}
