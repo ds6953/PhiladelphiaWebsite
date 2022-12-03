@@ -15,7 +15,7 @@
     <?php include "assets/inc/nav.php"; ?>
 
     <h2><?php echo $currentPage; ?></h2>
-    <section cla
+    <section class="intro">
       <h3>About</h3>
       <img>
       <p></p>
