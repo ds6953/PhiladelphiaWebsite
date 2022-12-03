@@ -14,7 +14,18 @@ nav a {
     padding: 3px 5px;
 }
 
-
+.main-nav a:hover{
+    color: maroon;
+    background-color: #fd8f19;
+}
+.main-nav a:active{
+    color: #ff8400;
+    background-color: #733d03;
+}
+.main-nav .is-current{
+    color: navy;
+    background-color: #ff7119;
+}
 
 .main-nav a{
     border: 1px solid black;
