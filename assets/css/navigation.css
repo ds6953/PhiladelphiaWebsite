@@ -1,5 +1,4 @@
-a{
-    display: inline-block;
+.main-nav a{
     border: 1px solid black;
     justify-content: center;
     padding: 15px;
@@ -7,10 +6,9 @@ a{
     box-shadow: 5px 5px 10px 0 #cccccc;
     border-radius: 5px;
 }
-ul{
+.main-nav ul{
     list-style: none;
     padding: 15px;
-}
-li{
-    float: left;
+    display: flex;
+
 }
