@@ -1,17 +1,32 @@
-/** Fonts **/
+
 .container{
 	width: 90%;
 	max-width: 1000px;
 	margin: 0 auto;
 }
-.header{
+
+
+/** Fonts **/
+h1{
     font-size: 40px;
+    font: Cambria;
+}
+h2{
+    font-size: 30px;
+    font: Cambria;
+    text-decoration: underline;
+}
+h3{
+    font-size: 25px;
     font: Cambria;
 }
 p{
     line-height: 20px;
+    text-indent: 2em;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+/**Other Styling**/
 body{
         /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,1e5799+11,7db9e8+45,7db9e8+51,7db9e8+51,7db9e8+64,7db9e8+64,7db9e8+76,a0bdde+96 */
 background: #1e5799; /* Old browsers */

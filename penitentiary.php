@@ -33,6 +33,7 @@
     </section>
     <section class="location">
         <h3>Location</h3>
+        <img src="assets/images/penitentiarymap.png" alt="Penintentiary">
         <p>Located in the Fairmount section of Philadelphia. The address is 30 Institution Road Napanoch, New York</p>
     </section>
    

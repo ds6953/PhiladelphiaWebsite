@@ -2,7 +2,7 @@
         <h2>Sources</h2>
         <nav>
             <ul>
-                <li><a class="external" href="">insert link</a></li>
+                <li><a class="external" href="https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania">Wikipedia</a></li>
                 <li><a class="external" href="https://www.britannica.com/place/Philadelphia">Britannica</a></li>
         </ul>
         </nav>
