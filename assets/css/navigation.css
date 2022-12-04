@@ -44,3 +44,17 @@ nav a {
     display: flex;
     flex-wrap: wrap;
 }
+.external:hover{color: lightcoral;}
+.external:active{color: orangered;}
+.external:a{color: orangered;}
+.external{
+    border: 1px solid navy;
+    justify-content: center;
+    padding: 10px;
+    background-color: chocolate;
+    box-shadow: 5px 5px 10px 0 #cccccc;
+    border-radius: 5px;
+}
+footer nav li{
+    margin-bottom: 2em;
+}
