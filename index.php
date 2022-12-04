@@ -17,8 +17,10 @@
     <h2><?php echo $currentPage; ?></h2>
     <section class="intro">
       <h3>About</h3>
-      <img src="assets/images/philadelphiacity.jpg" alt="City of Philidalphia">
-      <p>Philadelphia County is a county in the Commonwealth of Pennsylvania. It is the most populous county in Pennsylvania. As of 2019, Philadelphia County had an estimated population of 1,584,064 residents. The county is the second smallest county in Pennsylvania by land area, after Montour County. Philadelphia County is one of the three original counties, along with Chester and Bucks counties, created by William Penn in November 1682.  Since 1854, the county has been coextensive with the City of Philadelphia which is also its county seat. Philadelphia County is the core county in the Philadelphia-Camden-Wilmington Combined Statistical Area (PA-NJ-DE-MD, also known as the Delaware Valley), located along the lower Delaware and Schuylkill Rivers, within the Northeast megalopolis. Philadelphia County is the economic and cultural anchor of the Delaware Valley, the eighth-largest combined statistical area in the United States with an estimated population of 6.096 million as of 2020</p>
+      <div class="flex">
+        <img class="resize" src="assets/images/philadelphiacity.jpg" alt="City of Philidalphia">
+        <p>Philadelphia County is a county in the Commonwealth of Pennsylvania. It is the most populous county in Pennsylvania. As of 2019, Philadelphia County had an estimated population of 1,584,064 residents. The county is the second smallest county in Pennsylvania by land area, after Montour County. Philadelphia County is one of the three original counties, along with Chester and Bucks counties, created by William Penn in November 1682.  Since 1854, the county has been coextensive with the City of Philadelphia which is also its county seat. Philadelphia County is the core county in the Philadelphia-Camden-Wilmington Combined Statistical Area (PA-NJ-DE-MD, also known as the Delaware Valley), located along the lower Delaware and Schuylkill Rivers, within the Northeast megalopolis. Philadelphia County is the economic and cultural anchor of the Delaware Valley, the eighth-largest combined statistical area in the United States with an estimated population of 6.096 million as of 2020</p>
+      </div>
     </section>
     
     <section class="characteristics">

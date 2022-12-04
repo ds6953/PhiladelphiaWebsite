@@ -15,9 +15,11 @@
     <h2><?php echo $currentPage; ?></h2>
     
     <section class="intro">
-      <h3>About</h3>
-      <img src="assets/images/independancehall.jpg" alt="independancehall">
-      <p>Independence Hall is a historic civic building in Philadelphia, where both the United States Declaration of Independence and the United States Constitution were debated and adopted by America's Founding Fathers. The structure forms the centerpiece of the Independence National Historical Park and has been designated a UNESCO World Heritage Site.  The building was completed in 1753 as the Pennsylvania State House and served as the capitol for the Province and Commonwealth of Pennsylvania until the state capital moved to Lancaster in 1799. It was the principal meeting place of the Second Continental Congress from 1775 to 1781 and was the site of the Constitutional Convention in the summer of 1787.  A convention held in Independence Hall in 1915, presided over by former U.S. president William Howard Taft, marked the formal announcement of the formation of the League to Enforce Peace, which led to the League of Nations in 1920 and the United Nations, a quarter century later.</p>
+        <h3>About</h3>
+        <div class="flex">
+          <img class="resize" src="assets/images/independancehall.jpg" alt="independancehall">
+          <p>Independence Hall is a historic civic building in Philadelphia, where both the United States Declaration of Independence and the United States Constitution were debated and adopted by America's Founding Fathers. The structure forms the centerpiece of the Independence National Historical Park and has been designated a UNESCO World Heritage Site.  The building was completed in 1753 as the Pennsylvania State House and served as the capitol for the Province and Commonwealth of Pennsylvania until the state capital moved to Lancaster in 1799. It was the principal meeting place of the Second Continental Congress from 1775 to 1781 and was the site of the Constitutional Convention in the summer of 1787.  A convention held in Independence Hall in 1915, presided over by former U.S. president William Howard Taft, marked the formal announcement of the formation of the League to Enforce Peace, which led to the League of Nations in 1920 and the United Nations, a quarter century later.</p>
+        </div>
     </section>
 
     <section class="characteristics">

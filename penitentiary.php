@@ -16,9 +16,11 @@
     <h2><?php echo $currentPage; ?></h2>
 
     <section class="intro">
-      <h3>About</h3>
-      <img src="assets/images/penitentiary.png" alt="penitentiary">
-      <p>The Eastern State Penitentiary (ESP) is a former American prison in Philadelphia, Pennsylvania. It is located at 2027 Fairmount Avenue between Corinthian Avenue and North 22nd Street in the Fairmount section of the city, and was operational from 1829 until 1971. The penitentiary refined the revolutionary system of separate incarceration first pioneered at the Walnut Street Jail which emphasized principles of reform rather than punishment.  Notorious criminals such as Al Capone and bank robber Willie Sutton were held inside its innovative wagon wheel design. James Bruno (Big Joe) and several male relatives were incarcerated here between 1936 and 1948 for the alleged murders in the Kelayres massacre of 1934, before they were paroled.  At its completion, the building was the largest and most expensive public structure ever erected in the United States, and quickly became a model for more than 300 prisons worldwide  The prison is currently a U.S. National Historic Landmark, which is open to the public as a museum for tours seven days a week, twelve months a year, 10 am to 5 pm. </p>
+        <h3>About</h3>
+        <div class="flex">
+            <img class="resize" src="assets/images/penitentiary.png" alt="penitentiary">
+            <p>The Eastern State Penitentiary (ESP) is a former American prison in Philadelphia, Pennsylvania. It is located at 2027 Fairmount Avenue between Corinthian Avenue and North 22nd Street in the Fairmount section of the city, and was operational from 1829 until 1971. The penitentiary refined the revolutionary system of separate incarceration first pioneered at the Walnut Street Jail which emphasized principles of reform rather than punishment.  Notorious criminals such as Al Capone and bank robber Willie Sutton were held inside its innovative wagon wheel design. James Bruno (Big Joe) and several male relatives were incarcerated here between 1936 and 1948 for the alleged murders in the Kelayres massacre of 1934, before they were paroled.  At its completion, the building was the largest and most expensive public structure ever erected in the United States, and quickly became a model for more than 300 prisons worldwide  The prison is currently a U.S. National Historic Landmark, which is open to the public as a museum for tours seven days a week, twelve months a year, 10 am to 5 pm. </p>
+        </div>
     </section>
 
     <section class="characteristics">

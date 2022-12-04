@@ -15,9 +15,11 @@
     <h2><?php echo $currentPage; ?></h2>
 
     <section class="intro">
-      <h3>About</h3>
-      <img src="assets/images/libertybell.png" alt="libertybell">
-      <p>The Liberty Bell, previously called the State House Bell or Old State House Bell, is an iconic symbol of American independence, located in Philadelphia. Originally placed in the steeple of the Pennsylvania State House (now renamed Independence Hall), the bell today is located across the street in the Liberty Bell Center in Independence National Historical Park. The bell was commissioned in 1752 by the Pennsylvania Provincial Assembly from the London firm of Lester and Pack (known subsequently as the Whitechapel Bell Foundry), and was cast with the lettering "Proclaim LIBERTY Throughout all the Land unto all the Inhabitants Thereof", a Biblical reference from the Book of Leviticus (25:10). The bell first cracked when rung after its arrival in Philadelphia, and was twice recast by local workmen John Pass and John Stow, whose last names appear on the bell. In its early years, the bell was used to summon lawmakers to legislative sessions and to alert citizens about public meetings and proclamations. </p>
+        <h3>About</h3>
+        <div class="flex">
+            <img class="resize" src="assets/images/libertybell.png" alt="libertybell">
+            <p>The Liberty Bell, previously called the State House Bell or Old State House Bell, is an iconic symbol of American independence, located in Philadelphia. Originally placed in the steeple of the Pennsylvania State House (now renamed Independence Hall), the bell today is located across the street in the Liberty Bell Center in Independence National Historical Park. The bell was commissioned in 1752 by the Pennsylvania Provincial Assembly from the London firm of Lester and Pack (known subsequently as the Whitechapel Bell Foundry), and was cast with the lettering "Proclaim LIBERTY Throughout all the Land unto all the Inhabitants Thereof", a Biblical reference from the Book of Leviticus (25:10). The bell first cracked when rung after its arrival in Philadelphia, and was twice recast by local workmen John Pass and John Stow, whose last names appear on the bell. In its early years, the bell was used to summon lawmakers to legislative sessions and to alert citizens about public meetings and proclamations. </p>
+        </div>    
     </section>
     
     <section class="characteristics">

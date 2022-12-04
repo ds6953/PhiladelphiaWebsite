@@ -14,9 +14,11 @@
     <h2><?php echo $currentPage; ?></h2>
 
     <section class="intro">
-      <h3>About</h3>
-      <img src="assets/images/christchurch.jpg" alt="Christ Church" >
-      <p>Christ Church is an Episcopal church in the Old City neighborhood of Philadelphia. Founded in 1695 as a parish of the Church of England, it played an integral role in the founding of the Protestant Episcopal Church in the United States. In 1785, its rector, William White, became the first Presiding Bishop of the Episcopal Church.  From 1754 to 1810, the church's 196-foot (60m) tower and steeple was the tallest structure in the Thirteen Colonies and, later, the tallest structure in the United States.</p>
+        <h3>About</h3>
+        <div class="flex">
+            <img class="resize" src="assets/images/christchurch.jpg" alt="Christ Church" >
+            <p>Christ Church is an Episcopal church in the Old City neighborhood of Philadelphia. Founded in 1695 as a parish of the Church of England, it played an integral role in the founding of the Protestant Episcopal Church in the United States. In 1785, its rector, William White, became the first Presiding Bishop of the Episcopal Church.  From 1754 to 1810, the church's 196-foot (60m) tower and steeple was the tallest structure in the Thirteen Colonies and, later, the tallest structure in the United States.</p>
+        </div>
     </section>
     
     <section class="characteristics">
