@@ -15,7 +15,7 @@
 
     <section class="intro">
       <h3>About</h3>
-      <img src="assets/images/image3.png" alt="Christ Church" >
+      <img src="assets/images/christchurch.png" alt="Christ Church" >
       <p></p>
     </section>
     
