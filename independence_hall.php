@@ -39,7 +39,7 @@
 
     <section class="location">
       <h3>Location</h3>
-      <img src="assets/images/independencehallmap.png" alt="Independence Hall Map">
+      <img class="mapresize" src="assets/images/independencehallmap.png" alt="Independence Hall Map">
       <p>Independence Hall is located at 520 Chestnut Street</p>
     </section>
     

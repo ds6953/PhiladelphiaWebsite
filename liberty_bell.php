@@ -38,7 +38,7 @@
 
     <section class="location">
         <h3>Location</h3>
-        <img src="assets/images/bellmap.png" alt="Liberty Bell Location">
+        <img class="mapresize" src="assets/images/bellmap.png" alt="Liberty Bell Location">
         <p>The Liberty Bell Center is located at 526 Market Street. Visitors exit from the south end of the building, near Chestnut Street.</p>
     </section>
 

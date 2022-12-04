@@ -39,7 +39,7 @@
 
     <section class="location">
         <h3>Location</h3>
-        <img src="assets/images/penitentiarymap.png" alt="Penintentiary">
+        <img class="mapresize" src="assets/images/penitentiarymap.png" alt="Penintentiary">
         <p>Located in the Fairmount section of Philadelphia. The address is 2027 Fairmount Avenue
 Philadelphia, PA 19130</p>
     </section>

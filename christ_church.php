@@ -36,7 +36,7 @@
     
     <section class="location">
         <h3>Location</h3>
-        <img src="assets/images/churchmap.png" alt="Church Map">
+        <img class="mapresize" src="assets/images/churchmap.png" alt="Church Map">
         <p>Christ Church is an Episcopal church in the Old City neighborhood of Philadelphia. It is located in 20 N American St, Philadelphia, PA 19106</p>
     </section>
 
