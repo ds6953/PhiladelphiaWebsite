@@ -11,5 +11,5 @@
         </ul>
         </nav>
         <p>This web page was written by Team Philadelphia</p>
-        <div>ISTE 240 Web and Mobile II</div>
+        <p>ISTE 240 Web and Mobile II</p>
 </footer>
