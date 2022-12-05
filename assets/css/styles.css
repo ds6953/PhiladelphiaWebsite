@@ -41,7 +41,7 @@ h2{
     font-size: 30px;
     font: Cambria;
     text-decoration: underline;
-    color: brown;
+    color: yellowgreen;
 }
 h3{
     font-size: 25px;
@@ -71,16 +71,21 @@ section{
     margin: 1em;
     padding-left: 1em;
     padding-right: 1em;
+    background-color: rgba(62,12,94,.5);
+}
+table{
+    border-collapse: collapse;
+    margin: 10px;
 }
 table th{
     border: 2px solid black;
     background-color: lightblue;
-    padding:5px;
+    padding:8px;    
 }
 table td {
    border: 2px solid black;
-    background-color: lightblue;
-   padding: 5px;
+   background-color: lightblue;
+   padding: 7.55px;
 }
 
 /*css for mobile design*/
