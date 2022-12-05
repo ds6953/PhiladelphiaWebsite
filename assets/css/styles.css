@@ -1,20 +1,64 @@
-/** Fonts **/
+/**layout**/
 .container{
 	width: 90%;
 	max-width: 1000px;
 	margin: 0 auto;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.header{
+    
+.flex{
+    display: flex;
+    padding-left: 1em;
+    padding-bottom: 1em;
+    gap:1em;
+}
+#seal{
+    width: 75%;
+    max-width: 200px;
+    height: auto;
+}
+.resize {
+    max-height: 224px;
+    }
+    .headflex{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        }
+    .mapresize {
+        width: 100%;
+        height: auto;
+        max-height: 400px;
+            }
+
+/** Fonts **/
+h1{
     font-size: 40px;
+    font: Cambria;
+}
+h2{
+    font-size: 30px;
+    font: Cambria;
+    text-decoration: underline;
+}
+h3{
+    font-size: 25px;
     font: Cambria;
 }
 p{
     line-height: 20px;
+<<<<<<< HEAD
 }
 h1{color: purple;}
 h2{color: brown;}
 h3{color: green;}
+=======
+    text-indent: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/**Other Styling**/
+>>>>>>> bdd9f523887d66958834e2daacab4e9428c024dd
 body{
         /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,1e5799+11,7db9e8+45,7db9e8+51,7db9e8+51,7db9e8+64,7db9e8+64,7db9e8+76,a0bdde+96 */
 background: #1e5799; /* Old browsers */
@@ -43,5 +87,21 @@ table td {
     background-color: lightblue;
    padding: 5px;
 }
+
+/*css for mobile design*/
+@media (max-width: 999px) {
+    section, header{
+        margin-bottom: 1em;
+    }
+    .flex{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .resize {
+        width: 100%;
+        height: auto;
+        max-height: 400px;
+        }
+    }
 
 
