@@ -32,7 +32,7 @@ nav a {
     justify-content: center;
     padding: 15px;
     background-color: #fec019;
-    box-shadow: 5px 5px 10px 0 #cccccc;
+    box-shadow: 5px 5px 10px 0 #707070;
     border-radius: 5px;
 }
 .main-nav li{
@@ -52,7 +52,7 @@ nav a {
     justify-content: center;
     padding: 10px;
     background-color: chocolate;
-    box-shadow: 5px 5px 10px 0 #cccccc;
+    box-shadow: 5px 5px 10px 0 #707070;
     border-radius: 5px;
 }
 footer nav li{

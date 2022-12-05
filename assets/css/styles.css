@@ -3,6 +3,7 @@
 	width: 90%;
 	max-width: 1000px;
 	margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .header{
     font-size: 40px;
@@ -10,8 +11,10 @@
 }
 p{
     line-height: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+h1{color: purple;}
+h2{color: brown;}
+h3{color: green;}
 body{
         /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,1e5799+11,7db9e8+45,7db9e8+51,7db9e8+51,7db9e8+64,7db9e8+64,7db9e8+76,a0bdde+96 */
 background: #1e5799; /* Old browsers */
@@ -29,6 +32,16 @@ section{
     margin: 1em;
     padding-left: 1em;
     padding-right: 1em;
+}
+table th{
+    border: 2px solid black;
+    background-color: lightblue;
+    padding:5px;
+}
+table td {
+   border: 2px solid black;
+    background-color: lightblue;
+   padding: 5px;
 }
 
 
